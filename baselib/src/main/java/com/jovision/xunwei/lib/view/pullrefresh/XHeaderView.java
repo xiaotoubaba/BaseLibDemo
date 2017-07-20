@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 /**
  * The header View

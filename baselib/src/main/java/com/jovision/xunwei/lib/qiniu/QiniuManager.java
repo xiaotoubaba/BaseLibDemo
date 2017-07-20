@@ -3,12 +3,12 @@ package com.jovision.xunwei.lib.qiniu;
 import android.os.AsyncTask;
 import android.text.TextUtils;
 
-import com.jovision.xunwei.junior.lib.BaseApplication;
-import com.jovision.xunwei.junior.lib.R;
-import com.jovision.xunwei.junior.lib.util.FileUtils;
-import com.jovision.xunwei.junior.lib.util.HttpUtil;
-import com.jovision.xunwei.junior.lib.util.MD5Util;
-import com.jovision.xunwei.junior.lib.util.SpUtil;
+import com.jovision.R;
+import com.jovision.xunwei.lib.BaseApplication;
+import com.jovision.xunwei.lib.util.FileUtils;
+import com.jovision.xunwei.lib.util.HttpUtil;
+import com.jovision.xunwei.lib.util.MD5Util;
+import com.jovision.xunwei.lib.util.SpUtil;
 import com.qiniu.android.http.ResponseInfo;
 import com.qiniu.android.storage.UpCompletionHandler;
 import com.qiniu.android.storage.UpProgressHandler;

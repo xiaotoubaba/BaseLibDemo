@@ -39,7 +39,7 @@ import java.util.concurrent.TimeUnit;
 import in.srain.cube.diskcache.CacheEntry;
 import in.srain.cube.diskcache.DiskCache;
 import in.srain.cube.diskcache.FileUtils;
-import in.srain.cube.set.hash.SimpleHashSet;
+import in.srain.cube.hash.SimpleHashSet;
 import in.srain.cube.util.CLog;
 
 public final class LruActionTracer implements Runnable {

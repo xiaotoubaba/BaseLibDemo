@@ -9,8 +9,8 @@ import android.os.Handler;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.jovision.xunwei.junior.lib.R;
-import com.jovision.xunwei.junior.lib.util.LogUtil;
+import com.jovision.R;
+import com.jovision.xunwei.lib.util.LogUtil;
 
 import java.util.Calendar;
 

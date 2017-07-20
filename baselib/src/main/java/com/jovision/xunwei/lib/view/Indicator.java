@@ -13,7 +13,8 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
+
 
 /**
  * 参考： （1）http://blog.csdn.net/qibin0506/article/details/42046559 <br/>

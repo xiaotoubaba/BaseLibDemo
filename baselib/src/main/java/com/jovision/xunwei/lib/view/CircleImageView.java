@@ -19,7 +19,8 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
+
 
 /**
   * 流程控制的比较严谨，比如setup函数的使用

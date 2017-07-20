@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.widget.GridView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 /**
  * Created by zhangzz on 15/11/20.

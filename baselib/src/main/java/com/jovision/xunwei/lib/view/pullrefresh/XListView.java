@@ -20,7 +20,7 @@ import android.widget.RelativeLayout;
 import android.widget.Scroller;
 import android.widget.TextView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 /**
  * XListView, it's based on <a

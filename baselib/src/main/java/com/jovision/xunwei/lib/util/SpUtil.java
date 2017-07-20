@@ -8,7 +8,7 @@ import android.content.SharedPreferences.Editor;
 import android.os.Build;
 import android.util.Log;
 
-import com.jovision.xunwei.junior.lib.BaseApplication;
+import com.jovision.xunwei.lib.BaseApplication;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -9,7 +9,8 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
+
 
 /**
  * Created by Administrator on 2016/1/22.

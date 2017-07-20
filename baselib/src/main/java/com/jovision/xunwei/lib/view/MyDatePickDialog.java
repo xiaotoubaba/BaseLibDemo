@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 import java.text.DateFormat;
 import java.text.DecimalFormat;

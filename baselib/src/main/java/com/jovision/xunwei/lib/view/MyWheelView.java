@@ -17,7 +17,7 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 import java.util.ArrayList;
 import java.util.List;

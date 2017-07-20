@@ -6,7 +6,7 @@ import android.view.Gravity;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.jovision.xunwei.junior.lib.R;
+import com.jovision.R;
 
 public class SlideinDialog extends Dialog{
 
